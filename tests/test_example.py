@@ -11,5 +11,8 @@ def test_subtraction():
     assert 1 - 1 == 0
     
     
-def print(text):
+def printt(text):
     print(text)
+    
+def test_printt():
+    assert printt("Hello") == None
