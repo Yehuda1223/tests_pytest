@@ -1,0 +1,12 @@
+{
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+    "pythonTestExplorer.testFramework": "pytest",
+    "testExplorer.showExpandButtons": true,
+    "testExplorer.showDuration": true,
+    "python.testing.unittestEnabled": false
+}
+
