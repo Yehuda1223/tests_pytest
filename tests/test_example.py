@@ -9,3 +9,6 @@ def ninus_one():
     
 def test_subtraction():
     assert 1 - 1 == 0
+    
+def test_multiplication():
+    assert 1 * 5 == 1
