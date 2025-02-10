@@ -9,3 +9,7 @@ def ninus_one():
     
 def test_subtraction():
     assert 1 - 1 == 0
+    
+    
+def print(text):
+    print(text)
