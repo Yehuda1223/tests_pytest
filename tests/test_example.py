@@ -3,3 +3,9 @@ def test_addition():
 
 def test_fail():
     assert 2 + 25 == 5  
+
+def ninus_one():
+    assert 1 - 1 == 0
+    
+def test_subtraction():
+    assert 1 - 1 == 0
