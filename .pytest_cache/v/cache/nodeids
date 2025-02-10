@@ -1,0 +1,4 @@
+[
+  "tests/test_example.py::test_addition",
+  "tests/test_example.py::test_fail"
+]
