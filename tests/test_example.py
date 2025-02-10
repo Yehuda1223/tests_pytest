@@ -16,3 +16,6 @@ def printt(text):
     
 def test_printt():
     assert printt("Hello") == None
+    
+def test_printt2():
+    assert printt("Hello") == None
